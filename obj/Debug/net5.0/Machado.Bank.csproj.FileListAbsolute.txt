@@ -1,0 +1,16 @@
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.exe
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.deps.json
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.runtimeconfig.json
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.runtimeconfig.dev.json
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.dll
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\ref\Machado.Bank.dll
+C:\src\projects\projetos_c#\DIO\Machado.Bank\bin\Debug\net5.0\Machado.Bank.pdb
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.csprojAssemblyReference.cache
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.AssemblyInfoInputs.cache
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.AssemblyInfo.cs
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.csproj.CoreCompileInputs.cache
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.dll
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\ref\Machado.Bank.dll
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.pdb
+C:\src\projects\projetos_c#\DIO\Machado.Bank\obj\Debug\net5.0\Machado.Bank.genruntimeconfig.cache
